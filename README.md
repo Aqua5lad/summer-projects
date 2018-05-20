@@ -1,2 +1,14 @@
 # summer-projects
-# compendium of summer project noodlings
+## a compendium of summer project noodlings
+
+### Dublin Bay tweets
+1. learn how to convert the tweets into a csv file
+2. learn how to capture the tweets automatically & forward them to a dB
+3. learn how to strip/clean extraneous content from the dataset
+4. start analysing it
+
+## DD 
+1. clean & prepare the existing dataset as a csv
+2. perform some basic analysis on it
+3. create an app to capture daily updates
+
