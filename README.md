@@ -12,3 +12,5 @@
 2. perform some basic analysis on it
 3. create an app to capture daily updates
 
+# test Oct 3
+# git test line
